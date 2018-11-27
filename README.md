@@ -36,13 +36,14 @@ Schraube M6x16 (Laufrad) | 2
 Distanzhülse M3x35 Nylon schwarz | 5 
 Schraube M4x50 (Gimbalplatte) | 2 
 Stoppmutter M4 (Gimbalplatte) | 2 
-Schraube M3x16 | 92 
+Schraube M3x12 | 92 
 Schraube M3x40 (Seilkäfig) | 2 
 Schraube M3x12 (Encoderbefestigung) | 2 
 Stoppmutter M3 (Encoderbefestigung) | 2 
 Distanzhülse M3x3 Nylon (Encoder-, Controllerabstandshalter) | 6 
 Unterlegscheibe d3x1 Kunststoff (Abstandshalter ODrive Controller) | 6 
 Schraube M3x24 (Klemmung Antriebsrad) | 4 
+Stiftschraube M4 x 4 mit Ringschneide DIN 916 (Mitnehmer) | 2
 
 
 ## Assembly
