@@ -27,22 +27,35 @@ These parts did undergo several iterations of design, e.g. initially some parts 
 
 ## Bill of Material
 
-Item | Qty
------|-----
-Distanzhülse M3x30 Nylon schwarz | 40 
-Distanzhülse M6x30 Stahl | 2 
-Schraube M6x40 (Laufrad) | 2 
-Schraube M6x16 (Laufrad) | 2 
-Distanzhülse M3x35 Nylon schwarz | 5 
-Schraube M4x50 (Gimbalplatte) | 2 
-Stoppmutter M4 (Gimbalplatte) | 2 
-Schraube M3x16 | 92 
-Schraube M3x40 (Seilkäfig) | 2 
-Schraube M3x12 (Encoderbefestigung) | 2 
-Stoppmutter M3 (Encoderbefestigung) | 2 
-Distanzhülse M3x3 Nylon (Encoder-, Controllerabstandshalter) | 6 
-Unterlegscheibe d3x1 Kunststoff (Abstandshalter ODrive Controller) | 6 
-Schraube M3x24 (Klemmung Antriebsrad) | 4 
+Item | | Qty
+-----|-----|-----
+Schraube M4x10 |Befestigung Motor and Motorträger | 4 
+Zylinderkopfschraube M3x12 |Odrive Controller Befestigung | 4 
+Stoppmutter M3 |Odrive Controller Befestigung | 4 
+Distanzscheibe d3x1 Kunststoff |Odrive Controller Befestigung | 4 
+Zylinderkopfschraube M3x10 |Motorträger an Seitenwange1 | 5 
+Stoppmutter M3 |Motorträger an Seitenwange1 | 5 
+Unterlegscheibe d3 |Motorträger an Seitenwange1 | 5 
+ Zylinderkopfschraube M3x8 | Seitenwange1 | 22 
+ Distanzmutter M3x30 | Seitenwange1 | 22 
+ Distanzmutter M3x30 | Seitenwange1 Seilkäfig | 12 
+ Madenschraube M3x16 | Seitenwange1 Seilkäfig | 6 
+ Zylinderkopfschraube M6x16 | Laufradbefestigung | 2 
+ Distanzmutter M6x30 | Laufradbefestigung | 2 
+ Zylinderkopfschraube M3x16 | Seitenwange2 CC3D | 4 
+ Distanzhülse M3x6 Kunststoff | Seitenwange2 CC3D | 4 
+ Zylinderkopfschraube M4x45 | Gimbalträger | 2 
+ Stoppmutter M4 | Gimbalträger | 2 
+ Zylinderkopfschraube M3x8 | Encoderträger | 4 
+ Distanzmutter M3x35 | Encoderträger | 4 
+ Zylinderkopfschraube M3x8 | Seitenwange2 | 31 
+ Zylinderkopfschraube M3x12 | Encoderdeckel | 4 
+ Zylinderkopfschraube M3x8 | Encoder | 2 
+ Stoppmutter M3 | Encoder | 2 
+ Zylinderkopfschraube M3x12 | Laufradkäfig | 6 
+ Zylinderkopfschraube M6x40 | Laufrad | 2 
+ Stiftschraube mit Ringschneide M4x6 | Mitnehmer | 1 
+ Zylinderkopfschraube M3x25 | Klemmung Antriebsrad | 4 
 
 
 ## Assembly
