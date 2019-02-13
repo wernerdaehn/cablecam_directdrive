@@ -25,6 +25,8 @@ The main body consists of 2mm thick CFK mostly, except for the base plate where 
 These parts did undergo several iterations of design, e.g. initially some parts were 2.5D elements and had to be milled. To safe costs all has been redesigned to be pure 2D parts and waterjet cutting provide the best result. A clean surface with just a bit of chamfer needed afterwards - to make it perfect - and the cheapest way to manufacture all.
 ![Waterjet_2D_cutting.png](Waterjet_2D_cutting.png)
 
+
+
 ## Bill of Material
 
 
@@ -43,8 +45,8 @@ Unterlegscheibe d3 |Motorträger an Seitenwange1 | 5
  Madenschraube M3x12 | Seitenwange1 Seilkäfig | 6 
  Zylinderkopfschraube M6x16 | Laufradbefestigung | 2 
  Distanzmutter M6x30 | Laufradbefestigung | 2 
- Zylinderkopfschraube M3x16 | Seitenwange2 CC3D | 4 
- Distanzhülse M3x6 Kunststoff | Seitenwange2 CC3D | 4 
+ Zylinderkopfschraube M3x12 | Seitenwange2 CC3D | 4 
+ Distanzhülse M3x3 Kunststoff | Seitenwange2 CC3D | 4 
  Stoppmutter M3 | CC3D Befestigung | 4 
  Zylinderkopfschraube M4x50 | Gimbalträger | 2 
  Stoppmutter M4 | Gimbalträger | 2 
