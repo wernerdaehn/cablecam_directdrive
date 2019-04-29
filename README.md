@@ -62,6 +62,7 @@ Unterlegscheibe d3 |Motorträger an Seitenwange1 | 5
  Unterlegscheibe d6 | Laufrad | 2 
  Stiftschraube mit Ringschneide M4x6 | Mitnehmer | 2 
  Zylinderkopfschraube M3x25 | Klemmung Antriebsrad | 4 
+ Zylinderkopfschraube M3x45 | Seilkäfig | 2 
 
 
 ## Assembly
